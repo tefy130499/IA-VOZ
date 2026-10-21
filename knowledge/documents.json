@@ -1,0 +1,67 @@
+[
+  {
+    "id": "seed-flow-designacion",
+    "title": "Flujo de trabajo: designación de asesor, dictaminantes y tercer dictaminante",
+    "category": "Designación de asesor y dictaminantes",
+    "version": "Imagen proporcionada por la usuaria; fecha/versión normativa por confirmar",
+    "status": "PENDIENTE_DE_VALIDACION",
+    "uploadedAt": "2026-10-21T00:00:00.000Z",
+    "chunks": [
+      {
+        "index": 0,
+        "page": null,
+        "text": "El flujo contempla los tipos de solicitud: designación de asesor, designación de dictaminantes y designación de tercer dictaminante. El estudiante presenta la solicitud por Mesa de Partes Virtual y adjunta los documentos requeridos según el tipo de solicitud."
+      },
+      {
+        "index": 1,
+        "page": null,
+        "text": "Mesa de Partes de la Facultad recibe y revisa la solicitud, verifica documentos según el tipo de solicitud y registra la solicitud. Si la solicitud está incompleta, se comunica al estudiante para subsanar observaciones. Si está completa, se deriva al Departamento Académico de Derecho."
+      },
+      {
+        "index": 2,
+        "page": null,
+        "text": "El Departamento Académico de Derecho recibe y revisa la solicitud, analiza la documentación y evalúa la viabilidad y disponibilidad de docentes. Elabora la propuesta según el tipo de solicitud: propuesta de asesor, propuesta de dictaminantes (2 docentes) y propuesta de tercer dictaminante. Luego remite la propuesta a la Secretaría del Decanato por correo electrónico con la documentación correspondiente."
+      },
+      {
+        "index": 3,
+        "page": null,
+        "text": "La Secretaría del Decano (Decanatura) recibe y revisa la propuesta, verifica la información y los requisitos, y prepara la resolución correspondiente. Si la propuesta no es conforme, se devuelve al Departamento Académico para corrección. Si es conforme, elabora la resolución de designación de asesor, de dictaminantes o de tercer dictaminante, gestiona la firma y remite la resolución a Mesa de Partes."
+      },
+      {
+        "index": 4,
+        "page": null,
+        "text": "Mesa de Partes registra la resolución y notifica a los interesados según corresponda: estudiante, docente asesor, docentes dictaminantes y tercer dictaminante. El estudiante recibe la resolución notificada por Mesa de Partes. El flujo indica que las solicitudes se presentan por Mesa de Partes Virtual y que se adjuntan los documentos requeridos según el tipo de solicitud."
+      }
+    ]
+  },
+  {
+    "id": "seed-modalidades-resumen",
+    "title": "Resumen de modalidades de titulación compartido en la conversación",
+    "category": "Modalidades de titulación",
+    "version": "Pendiente de contraste con los archivos oficiales completos",
+    "status": "PENDIENTE_DE_VALIDACION",
+    "uploadedAt": "2026-10-21T00:00:00.000Z",
+    "chunks": [
+      {
+        "index": 0,
+        "page": null,
+        "text": "La modalidad de tesis habitual contempla estas etapas documentadas en el resumen compartido: nombramiento de asesor, dictamen del proyecto de tesis, inscripción del tema de tesis, dictamen de tesis, apto al título mediante ERP y sustentación de tesis. Los requisitos y montos exactos deben consultarse en el documento oficial correspondiente."
+      },
+      {
+        "index": 1,
+        "page": null,
+        "text": "La modalidad de suficiencia profesional contempla estas etapas documentadas en el resumen compartido: nombramiento de asesor, dictamen del trabajo de suficiencia profesional, inscripción del tema, apto al título mediante ERP y sustentación del trabajo de suficiencia profesional. El resumen compartido indica que para nombramiento de asesor se pide certificado original de trabajo que acredite tres años consecutivos de experiencia laboral, y que para la sustentación se requieren dictámenes favorables de los tres miembros del jurado. Debe verificarse contra el documento oficial vigente antes de darlo como requisito definitivo."
+      },
+      {
+        "index": 2,
+        "page": null,
+        "text": "Los resúmenes de modalidades indican que la documentación de etapas de tesis se presenta por Mesa de Partes Virtual con nuevo ticket, mientras el trámite de apto al título figura en ERP. Debe confirmarse el canal de cada trámite con el TUPA y el reglamento vigentes."
+      },
+      {
+        "index": 3,
+        "page": null,
+        "text": "Canal indicado por la usuaria: Mesa de Partes Virtual de la UAC, https://mesadepartes.uandina.edu.pe/. El ERP debe indicarse solamente para los procedimientos en que el TUPA o el reglamento institucional así lo establezcan."
+      }
+    ]
+  }
+]

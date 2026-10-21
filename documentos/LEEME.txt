@@ -1,0 +1,1 @@
+Coloca aquí copias de los PDF y DOCX oficiales para importar texto con npm run ingest. La importación los deja como PENDIENTE_DE_VALIDACION; revisa vigencia, montos, páginas y canales antes de ponerlos en producción.

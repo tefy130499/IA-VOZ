@@ -1,0 +1,20 @@
+{
+  "name": "asistente-derecho-uac",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Asistente virtual de trámites académicos de Derecho UAC con voz y base documental",
+  "scripts": {
+    "start": "node server.js",
+    "ingest": "node scripts/ingest-docs.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "docx": "^9.1.0",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mammoth": "^1.9.0",
+    "multer": "^1.4.5-lts.1",
+    "openai": "^4.77.0",
+    "pdf-parse": "^1.1.1"
+  }
+}
